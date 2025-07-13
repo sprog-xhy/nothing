@@ -1,0 +1,4 @@
+*.zip
+pytorch-image-models-main
+data
+kaggle/digit-recognizer/data/data
